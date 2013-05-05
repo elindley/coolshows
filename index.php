@@ -4,6 +4,7 @@ include("header.php");
 ?>
 <div class="background">
 <h1>Submit a Show</h1>
+<!-- fararoiawjwaw -->
 
 <form  action="submit.php" method="POST">
 Title: <input  type="text" name="title">
